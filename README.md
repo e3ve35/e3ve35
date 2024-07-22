@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
+<hr />
 
 <div align="center">
 
@@ -64,7 +62,6 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)&nbsp;
 ![Postgre Sql](https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql&logoColor=0064a5)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)&nbsp;
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
