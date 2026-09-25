@@ -1,75 +1,41 @@
-<div align="center">
+# Hi, I’m Evelyn.
 
-<b> Hi, I'm Evelyn</b>
+I’m a software engineer at Snap, previously at TikTok, with an MS in Computer Science from Carnegie Mellon and a BA from NYU.
 
-<div align="center">
-         
+I explore how technology can help people create, learn, and interact with the physical world—from visual music tools to augmented reality.
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelynn-wu/)](https://www.linkedin.com/in/evelynn-wu/) [![Gmail](https://img.shields.io/badge/Email-black?color=black&logo=gmail&logoColor=white)](mailto:zhixuanevelynwu@gmail.com)
-         
-<img src="images/carrot-walking.gif" 
-         alt="profile"
-         height="50"
-         width="50" />
-<img src="images/ghost.GIF" 
-         alt="profile"
-         height="35"
-         width="35" />
-<img src="images/farmer-chasing.GIF" 
-         alt="profile"
-         height="50"
-         width="50" />
+[Website](https://e3ve35.github.io/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/evelynn-wu/) &nbsp;·&nbsp; [Email](mailto:zhixuanevelynwu@gmail.com)
 
-<!--
-**zhixuanevelynwu/zhixuanevelynwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### Where my work meets my curiosity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- I'm a Computer Science student at Carnegie Mellon University
-- I'm interested in algorithm design and multimedia development
-- I’m looking to collaborate on 2D/3D/VR/AR Games and interactive media projects
-- Visit my [personal website](https://e3ve35.github.io/) to view more of my works
+- **Data systems** — ML experimentation infrastructure, RAG assistants, and large-scale analytics.
+- **Human–computer interaction** — sensing, accessible interaction, and tools for creativity and learning.
+- **Creative computing** — visual music, augmented reality, and playful digital experiences.
 
-</div>
+<br />
 
-<hr />
+### Selected things I’ve built
 
-<div align="center">
+| Project | A small window into the work |
+| :--- | :--- |
+| **[GOMI](https://github.com/e3ve35/GOMI)**<br /><sub>VISUAL MUSIC · INTERACTION</sub> | Compose through a visual canvas, shape sound, and hear changes in real time.<br />[Try it in your browser ↗](https://e3ve35.github.io/GOMI/) |
+| **[Garden on the Desk](https://github.com/e3ve35/ar_garden)**<br /><sub>AUGMENTED REALITY · PLAY</sub> | A miniature garden in your physical surroundings, combining speech recognition and AR interaction. |
+| **[SharePix](https://github.com/e3ve35/SharePix)**<br /><sub>CREATIVE TOOLS · WEB</sub> | A collaborative project for making and sharing pixel art, with a drawing canvas, saved drafts, and a social feed. |
 
-### Tech Stack
+<br />
 
-<br>
+### Tools I work with
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
+**Code** &nbsp; Python · C++ · Java · TypeScript / JavaScript · SQL<br />
+**AI & data** &nbsp; PyTorch · TensorFlow.js · Airflow · PySpark · BigQuery<br />
+**Interfaces & infrastructure** &nbsp; React · Django · GCP
 
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=563D7C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)&nbsp;
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)&nbsp;
-![Postgre Sql](https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql&logoColor=0064a5)&nbsp;
+<br />
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)&nbsp;
-![GameMaker](https://img.shields.io/badge/-GameMaker-000000?style=flat&logo=gamemaker)&nbsp;
-![processing](https://img.shields.io/badge/-Processing-000000?style=flat&logo=processing)&nbsp;
-
-</div>
+<p align="center">
+  <img src="images/farmer-chasing.GIF" alt="A pixel old man" width="50" height="50" />
+  <br />
+  <sub>Thanks for stopping by.</sub>
+</p>
