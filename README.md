@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/vinyl-sleeve.svg" alt="Evelyn Wu — selected works. A vinyl sleeve and record, with GOMI, Garden on the Desk, and SharePix on the tracklist." width="100%" />
+</p>
+
 # Hi, I’m Evelyn.
 
 I’m a software engineer at Snap, previously at TikTok, with an MS in Computer Science from Carnegie Mellon and a BA from NYU.
@@ -18,11 +22,25 @@ I explore how technology can help people create, learn, and interact with the ph
 
 ### Selected things I’ve built
 
-| Project | A small window into the work |
-| :--- | :--- |
-| **[GOMI](https://github.com/e3ve35/GOMI)**<br /><sub>VISUAL MUSIC · INTERACTION</sub> | Compose through a visual canvas, shape sound, and hear changes in real time.<br />[Try it in your browser ↗](https://e3ve35.github.io/GOMI/) |
-| **[Garden on the Desk](https://github.com/e3ve35/ar_garden)**<br /><sub>AUGMENTED REALITY · PLAY</sub> | A miniature garden in your physical surroundings, combining speech recognition and AR interaction. |
-| **[SharePix](https://github.com/e3ve35/SharePix)**<br /><sub>CREATIVE TOOLS · WEB</sub> | A collaborative project for making and sharing pixel art, with a drawing canvas, saved drafts, and a social feed. |
+**A1 · [GOMI](https://github.com/e3ve35/GOMI)**<br />
+<sub>VISUAL MUSIC · INTERACTION</sub>
+
+Compose through a visual canvas, shape sound, and hear changes in real time.<br />
+[Try it in your browser ↗](https://e3ve35.github.io/GOMI/)
+
+---
+
+**A2 · [Garden on the Desk](https://github.com/e3ve35/ar_garden)**<br />
+<sub>AUGMENTED REALITY · PLAY</sub>
+
+A miniature garden in your physical surroundings, combining speech recognition and AR interaction.
+
+---
+
+**A3 · [SharePix](https://github.com/e3ve35/SharePix)**<br />
+<sub>CREATIVE TOOLS · WEB</sub>
+
+A collaborative project for making and sharing pixel art, with a drawing canvas, saved drafts, and a social feed.
 
 <br />
 
