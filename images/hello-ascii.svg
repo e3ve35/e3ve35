@@ -2,16 +2,16 @@
 <title id="t">Hello, I’m Evelyn. :p</title>
 <style>
 text{font:13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;text-anchor:middle;white-space:pre}
-.a{fill:#e9e6df}.b{fill:#d2fb83}
+.a{fill:#24202b}.b,.cur{fill:#357a00}
+@media (prefers-color-scheme:dark){.a{fill:#e9e6df}.b,.cur{fill:#d2fb83}}
 .k{animation:on .01s linear both}
 .move{transform:translateX(1288px);animation:move 5.39s steps(1,end) both}
-.cur{fill:#d2fb83;animation:blink 1.1s steps(1,end) 5.89s infinite}
+.cur{animation:blink 1.1s steps(1,end) 5.89s infinite}
 @keyframes on{from{opacity:0}to{opacity:1}}
 @keyframes move{0.0%{transform:translateX(120px)}12.99%{transform:translateX(224px)}15.96%{transform:translateX(288px)}19.29%{transform:translateX(320px)}22.45%{transform:translateX(360px)}25.97%{transform:translateX(432px)}28.57%{transform:translateX(464px)}39.89%{transform:translateX(504px)}44.34%{transform:translateX(544px)}47.5%{transform:translateX(568px)}50.83%{transform:translateX(696px)}54.36%{transform:translateX(720px)}58.26%{transform:translateX(800px)}60.85%{transform:translateX(864px)}64.19%{transform:translateX(928px)}67.16%{transform:translateX(960px)}70.5%{transform:translateX(1032px)}73.1%{transform:translateX(1112px)}76.81%{transform:translateX(1152px)}88.13%{transform:translateX(1176px)}92.58%{transform:translateX(1208px)}95.36%{transform:translateX(1288px)}100%{transform:translateX(1288px)}}
 @keyframes blink{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<rect width="1440" height="285" fill="#000000"/>
 <g class="k a" style="animation-delay:0.7s">
 <text y="57" x="116 124 132 140 148 156 172 180 188 196 204 212">=#@@#==*@@#+</text>
 <text y="72" x="124 132 140 148 188 196 204">.@@.@@:</text>
