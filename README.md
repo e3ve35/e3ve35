@@ -1,5 +1,5 @@
 <a href="https://e3ve35.github.io/">
-  <img src="images/garden-header.png" alt="Hello, I’m Evelyn. Games, gardens, and other experiments. Chrome lilies in a violet garden, with lime-green lettering. Visit my personal website." width="100%" />
+  <img src="images/hello-ascii.svg" alt="Hello, I’m Evelyn. :p — typed out letter by letter in ASCII characters. Visit my personal website." width="100%" />
 </a>
 
 <p align="center">
